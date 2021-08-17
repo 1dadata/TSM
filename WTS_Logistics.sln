@@ -1,0 +1,55 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31424.327
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WTS_Logistics.API", "WTS_Logistics.API\WTS_Logistics.API.csproj", "{B3DAF22B-8EA2-46BE-ADE7-9F58B28D1AFE}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WTS_Logistics.DAL", "WTS_Logistics.DAL\WTS_Logistics.DAL.csproj", "{64014303-B0C3-4F7A-B5FB-86753115E537}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WTS_Logistics.Common", "WTS_Logistics.Common\WTS_Logistics.Common.csproj", "{7298E89D-63C4-4055-B647-2EE706910D88}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WTS_Logistics.Model", "WTS_Logistics.Model\WTS_Logistics.Model.csproj", "{9220D6F8-8823-47AB-92A1-10572AB7A0E5}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WTS_Logistics.IDAL", "WTS_Logistics.IDAL\WTS_Logistics.IDAL.csproj", "{22DAC45A-2610-4774-92A4-38035304B960}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WTS_Logistics.Logic", "WTS_Logistics.Logic\WTS_Logistics.Logic.csproj", "{0A27DF7B-3F8B-4FE6-9A45-39DFF959BD7F}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{B3DAF22B-8EA2-46BE-ADE7-9F58B28D1AFE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B3DAF22B-8EA2-46BE-ADE7-9F58B28D1AFE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B3DAF22B-8EA2-46BE-ADE7-9F58B28D1AFE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B3DAF22B-8EA2-46BE-ADE7-9F58B28D1AFE}.Release|Any CPU.Build.0 = Release|Any CPU
+		{64014303-B0C3-4F7A-B5FB-86753115E537}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{64014303-B0C3-4F7A-B5FB-86753115E537}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{64014303-B0C3-4F7A-B5FB-86753115E537}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{64014303-B0C3-4F7A-B5FB-86753115E537}.Release|Any CPU.Build.0 = Release|Any CPU
+		{7298E89D-63C4-4055-B647-2EE706910D88}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7298E89D-63C4-4055-B647-2EE706910D88}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7298E89D-63C4-4055-B647-2EE706910D88}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7298E89D-63C4-4055-B647-2EE706910D88}.Release|Any CPU.Build.0 = Release|Any CPU
+		{9220D6F8-8823-47AB-92A1-10572AB7A0E5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9220D6F8-8823-47AB-92A1-10572AB7A0E5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9220D6F8-8823-47AB-92A1-10572AB7A0E5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9220D6F8-8823-47AB-92A1-10572AB7A0E5}.Release|Any CPU.Build.0 = Release|Any CPU
+		{22DAC45A-2610-4774-92A4-38035304B960}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{22DAC45A-2610-4774-92A4-38035304B960}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{22DAC45A-2610-4774-92A4-38035304B960}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{22DAC45A-2610-4774-92A4-38035304B960}.Release|Any CPU.Build.0 = Release|Any CPU
+		{0A27DF7B-3F8B-4FE6-9A45-39DFF959BD7F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0A27DF7B-3F8B-4FE6-9A45-39DFF959BD7F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0A27DF7B-3F8B-4FE6-9A45-39DFF959BD7F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0A27DF7B-3F8B-4FE6-9A45-39DFF959BD7F}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {368C0A0A-AED1-4E5D-A19D-5C1E7E4AA1D8}
+	EndGlobalSection
+EndGlobal
